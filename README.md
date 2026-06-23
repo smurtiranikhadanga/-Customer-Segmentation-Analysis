@@ -232,7 +232,7 @@ This project demonstrates how customer segmentation can be used to better unders
 
 ## Author
 
-**Prachi**
+**Smurti Rani Khadanga**
 
 B.Tech – Computer Science and Engineering (AIML)
 
